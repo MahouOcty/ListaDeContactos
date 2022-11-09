@@ -6,7 +6,9 @@ En este documento mostrare la realización del proyecto de libreta de contactos 
 
 En el repositorio se encuentra un archivo .sql, el cual es el primer archivo que se debe de correr, utilizando cualquier motor sql a elección.
 
-El segundo paso es iniciar la  api, de esta forma:
+El segundo paso es crear un archivo .env con las credenciales de las base de datos, igual que la que se muestra en el ejemplo llamada ".env.example" que esta en la carpeta api.
+
+Luego de ello se debe iniciar la  api, de esta forma:
 
 ```bash
 cd ./api
